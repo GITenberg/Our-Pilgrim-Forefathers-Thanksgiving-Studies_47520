@@ -1,10 +1,16 @@
 _repo: Our-Pilgrim-Forefathers-Thanksgiving-Studies_47520
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47520-h/images/cover.jpg
 creator:
   author:
     agent_name: Nelson, Loveday A.
     gutenberg_agent_id: '44365'
     url: http://www.gutenberg.org/2009/agents/44365
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47520#Our-Pilgrim-Forefathers-Thanksgiving-Studies
 gutenberg_issued: '2014-12-03'
 gutenberg_type: Text
 identifiers:
